@@ -1,0 +1,1 @@
+#This project, when run in python starts a game, and when a text file is inputted with values for a 8 tile puzzle, and by choosing one of the searchers an answer is searched for and returned, stating the amount of moves needed and printing the final board
