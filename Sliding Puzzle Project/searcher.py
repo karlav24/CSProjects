@@ -3,13 +3,6 @@
 #
 # classes for objects that perform state-space search on Eight Puzzles  
 #
-# name: 
-# email:
-#
-# If you worked with a partner, put their contact info below:
-# partner's name:
-# partner's email:
-#
 
 import random
 from state import *
